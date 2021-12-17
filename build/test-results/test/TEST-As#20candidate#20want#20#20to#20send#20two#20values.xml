@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="As candidate want  to send two values" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-17T14:22:55" hostname="BG-D-JNAVAS01" time="5.687">
+<testsuite name="As candidate want  to send two values" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-17T14:54:05" hostname="BG-D-JNAVAS01" time="5.676">
   <properties/>
-  <testcase name="Validate status 200 with two values" classname="As candidate want  to send two values" time="5.687"/>
+  <testcase name="Validate status 200 with two values" classname="As candidate want  to send two values" time="5.676"/>
   <system-out><![CDATA[https://postman-echo.com/get?value=33&value2=2
 ]]></system-out>
   <system-err><![CDATA[[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - STARTING STEP When Send request with two values
